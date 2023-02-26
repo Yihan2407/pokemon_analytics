@@ -4,4 +4,4 @@ Scraping individual Pokemon data from serebii.net from Gens 1-7, conducting Expl
 The web data is then converted into a .xlsx and .csv format, then cleaned in the notebook 'pokemon_analytics.ipynb'.
 The finalized workbook/csv is named 'all_pokemon_data_modified', which has been cleaned.
 
-- The main notebook may be viewed [here](https://github.com/Yihan2407/pokemon_analytics/blob/main/pokemon_analytics.ipynb).
+- The main notebook may be viewed [here](https://github.com/Yihan2407/pokemon_analytics/blob/main/pokemon_analytics.ipynb), or alternatively you may click on the notebook titled `pokemon_analytics.ipynb`
